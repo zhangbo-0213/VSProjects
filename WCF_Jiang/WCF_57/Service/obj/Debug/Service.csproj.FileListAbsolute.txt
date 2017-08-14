@@ -1,0 +1,7 @@
+E:\VSProjects\WCF_Jiang\WCF_57\Service\bin\Debug\Service.dll
+E:\VSProjects\WCF_Jiang\WCF_57\Service\bin\Debug\Service.pdb
+E:\VSProjects\WCF_Jiang\WCF_57\Service\bin\Debug\Contract.dll
+E:\VSProjects\WCF_Jiang\WCF_57\Service\bin\Debug\Contract.pdb
+E:\VSProjects\WCF_Jiang\WCF_57\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Jiang\WCF_57\Service\obj\Debug\Service.dll
+E:\VSProjects\WCF_Jiang\WCF_57\Service\obj\Debug\Service.pdb

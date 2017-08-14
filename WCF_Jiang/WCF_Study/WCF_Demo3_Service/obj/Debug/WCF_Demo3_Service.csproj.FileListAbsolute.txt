@@ -1,0 +1,5 @@
+E:\VSProjects\WCF_Study\WCF_Demo3_Service\bin\Debug\WCF_Demo3_Service.exe
+E:\VSProjects\WCF_Study\WCF_Demo3_Service\bin\Debug\WCF_Demo3_Service.pdb
+E:\VSProjects\WCF_Study\WCF_Demo3_Service\obj\Debug\WCF_Demo3_Service.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Study\WCF_Demo3_Service\obj\Debug\WCF_Demo3_Service.exe
+E:\VSProjects\WCF_Study\WCF_Demo3_Service\obj\Debug\WCF_Demo3_Service.pdb

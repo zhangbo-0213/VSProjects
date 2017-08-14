@@ -1,0 +1,8 @@
+E:\VSProjects\WCF_Study\WCF_Service\bin\Debug\WCF_Service.exe.config
+E:\VSProjects\WCF_Study\WCF_Service\bin\Debug\WCF_Service.exe
+E:\VSProjects\WCF_Study\WCF_Service\bin\Debug\WCF_Service.pdb
+E:\VSProjects\WCF_Study\WCF_Service\bin\Debug\WCF_Interface.dll
+E:\VSProjects\WCF_Study\WCF_Service\bin\Debug\WCF_Interface.pdb
+E:\VSProjects\WCF_Study\WCF_Service\obj\Debug\WCF_Service.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Study\WCF_Service\obj\Debug\WCF_Service.exe
+E:\VSProjects\WCF_Study\WCF_Service\obj\Debug\WCF_Service.pdb

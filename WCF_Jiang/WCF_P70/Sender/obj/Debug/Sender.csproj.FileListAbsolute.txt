@@ -1,0 +1,5 @@
+E:\VSProjects\WCF_Jiang\WCF_P70\Sender\bin\Debug\Sender.exe.config
+E:\VSProjects\WCF_Jiang\WCF_P70\Sender\bin\Debug\Sender.exe
+E:\VSProjects\WCF_Jiang\WCF_P70\Sender\bin\Debug\Sender.pdb
+E:\VSProjects\WCF_Jiang\WCF_P70\Sender\obj\Debug\Sender.exe
+E:\VSProjects\WCF_Jiang\WCF_P70\Sender\obj\Debug\Sender.pdb

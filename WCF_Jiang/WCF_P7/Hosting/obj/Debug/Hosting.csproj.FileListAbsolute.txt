@@ -1,0 +1,10 @@
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\bin\Debug\Hosting.exe.config
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\bin\Debug\Hosting.exe
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\bin\Debug\Hosting.pdb
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\bin\Debug\Contracts.dll
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\bin\Debug\Services.dll
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\bin\Debug\Contracts.pdb
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\bin\Debug\Services.pdb
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\obj\Debug\Hosting.exe
+E:\VSProjects\WCF_Jiang\WCF_P7\Hosting\obj\Debug\Hosting.pdb

@@ -1,0 +1,6 @@
+E:\VSProjects\WCF_Jiang\WCF_P70\Listener\bin\Debug\Listener.exe.config
+E:\VSProjects\WCF_Jiang\WCF_P70\Listener\bin\Debug\Listener.exe
+E:\VSProjects\WCF_Jiang\WCF_P70\Listener\bin\Debug\Listener.pdb
+E:\VSProjects\WCF_Jiang\WCF_P70\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Jiang\WCF_P70\Listener\obj\Debug\Listener.exe
+E:\VSProjects\WCF_Jiang\WCF_P70\Listener\obj\Debug\Listener.pdb

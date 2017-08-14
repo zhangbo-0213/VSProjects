@@ -1,0 +1,5 @@
+E:\VSProjects\WCF_Jiang\WCF_P7\Contracts\bin\Debug\Contracts.dll
+E:\VSProjects\WCF_Jiang\WCF_P7\Contracts\bin\Debug\Contracts.pdb
+E:\VSProjects\WCF_Jiang\WCF_P7\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Jiang\WCF_P7\Contracts\obj\Debug\Contracts.dll
+E:\VSProjects\WCF_Jiang\WCF_P7\Contracts\obj\Debug\Contracts.pdb

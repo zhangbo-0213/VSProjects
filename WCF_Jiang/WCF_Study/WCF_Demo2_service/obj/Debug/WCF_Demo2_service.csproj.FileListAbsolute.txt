@@ -1,0 +1,6 @@
+E:\VSProjects\WCF_Study\WCF_Demo2_service\bin\Debug\WCF_Demo2_service.exe.config
+E:\VSProjects\WCF_Study\WCF_Demo2_service\bin\Debug\WCF_Demo2_service.exe
+E:\VSProjects\WCF_Study\WCF_Demo2_service\bin\Debug\WCF_Demo2_service.pdb
+E:\VSProjects\WCF_Study\WCF_Demo2_service\obj\Debug\WCF_Demo2_service.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Study\WCF_Demo2_service\obj\Debug\WCF_Demo2_service.exe
+E:\VSProjects\WCF_Study\WCF_Demo2_service\obj\Debug\WCF_Demo2_service.pdb

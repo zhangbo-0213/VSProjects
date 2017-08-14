@@ -1,0 +1,14 @@
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\bin\Debug\P20_AboutXAML.exe.config
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\bin\Debug\P20_AboutXAML.exe
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\bin\Debug\P20_AboutXAML.pdb
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.csprojResolveAssemblyReference.cache
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\MainWindow.g.cs
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\App.g.cs
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML_MarkupCompile.cache
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML_MarkupCompile.lref
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\MainWindow.baml
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.g.resources
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.Properties.Resources.resources
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.csproj.GenerateResource.Cache
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.exe
+E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.pdb

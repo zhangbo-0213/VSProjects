@@ -1,0 +1,6 @@
+E:\VSProjects\WCF_Jiang\WCF_P7\Client\bin\Debug\Client.exe.config
+E:\VSProjects\WCF_Jiang\WCF_P7\Client\bin\Debug\Client.exe
+E:\VSProjects\WCF_Jiang\WCF_P7\Client\bin\Debug\Client.pdb
+E:\VSProjects\WCF_Jiang\WCF_P7\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Jiang\WCF_P7\Client\obj\Debug\Client.exe
+E:\VSProjects\WCF_Jiang\WCF_P7\Client\obj\Debug\Client.pdb

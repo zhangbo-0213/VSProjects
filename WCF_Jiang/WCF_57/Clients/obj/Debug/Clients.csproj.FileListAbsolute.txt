@@ -1,0 +1,10 @@
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\bin\Debug\Clients.exe.config
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\bin\Debug\Clients.exe
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\bin\Debug\Clients.pdb
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\bin\Debug\Contract.dll
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\bin\Debug\Service.dll
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\bin\Debug\Contract.pdb
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\bin\Debug\Service.pdb
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\obj\Debug\Clients.csprojResolveAssemblyReference.cache
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\obj\Debug\Clients.exe
+E:\VSProjects\WCF_Jiang\WCF_57\Clients\obj\Debug\Clients.pdb
