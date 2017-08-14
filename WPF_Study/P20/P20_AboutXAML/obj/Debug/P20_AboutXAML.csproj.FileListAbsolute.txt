@@ -12,3 +12,6 @@ E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.Properties.Res
 E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.csproj.GenerateResource.Cache
 E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.exe
 E:\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.pdb
+D:\msysgit\VSProjects\WPF_Study\P20\P20_AboutXAML\bin\Debug\P20_AboutXAML.exe.config
+D:\msysgit\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.exe
+D:\msysgit\VSProjects\WPF_Study\P20\P20_AboutXAML\obj\Debug\P20_AboutXAML.pdb
