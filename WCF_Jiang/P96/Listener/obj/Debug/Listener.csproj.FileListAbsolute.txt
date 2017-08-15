@@ -6,3 +6,6 @@ E:\VSProjects\WCF_Jiang\P96\Listener\bin\Debug\CustomChannel.pdb
 E:\VSProjects\WCF_Jiang\P96\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache
 E:\VSProjects\WCF_Jiang\P96\Listener\obj\Debug\Listener.exe
 E:\VSProjects\WCF_Jiang\P96\Listener\obj\Debug\Listener.pdb
+D:\msysgit\VSProjects\WCF_Jiang\P96\Listener\bin\Debug\Listener.exe.config
+D:\msysgit\VSProjects\WCF_Jiang\P96\Listener\obj\Debug\Listener.exe
+D:\msysgit\VSProjects\WCF_Jiang\P96\Listener\obj\Debug\Listener.pdb
