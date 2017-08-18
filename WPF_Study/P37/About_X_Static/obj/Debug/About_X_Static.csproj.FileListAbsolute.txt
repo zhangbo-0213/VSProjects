@@ -1,0 +1,14 @@
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\bin\Debug\About_X_Static.exe.config
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\bin\Debug\About_X_Static.exe
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\bin\Debug\About_X_Static.pdb
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static.csprojResolveAssemblyReference.cache
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\MainWindow.g.cs
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\App.g.cs
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static_MarkupCompile.cache
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static_MarkupCompile.lref
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\MainWindow.baml
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static.g.resources
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static.Properties.Resources.resources
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static.csproj.GenerateResource.Cache
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static.exe
+D:\msysgit\VSProjects\WPF_Study\P37\About_X_Static\obj\Debug\About_X_Static.pdb

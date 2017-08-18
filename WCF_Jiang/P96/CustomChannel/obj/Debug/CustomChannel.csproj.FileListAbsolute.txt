@@ -4,3 +4,9 @@ E:\VSProjects\WCF_Jiang\P96\CustomChannel\bin\Debug\CustomChannel.pdb
 E:\VSProjects\WCF_Jiang\P96\CustomChannel\obj\Debug\CustomChannel.csprojResolveAssemblyReference.cache
 E:\VSProjects\WCF_Jiang\P96\CustomChannel\obj\Debug\CustomChannel.exe
 E:\VSProjects\WCF_Jiang\P96\CustomChannel\obj\Debug\CustomChannel.pdb
+D:\msysgit\VSProjects\WCF_Jiang\P96\CustomChannel\obj\Debug\CustomChannel.pdb
+D:\msysgit\VSProjects\WCF_Jiang\P96\CustomChannel\obj\Debug\CustomChannel.csprojResolveAssemblyReference.cache
+D:\msysgit\VSProjects\WCF_Jiang\P96\CustomChannel\bin\Debug\CustomChannel.dll.config
+D:\msysgit\VSProjects\WCF_Jiang\P96\CustomChannel\bin\Debug\CustomChannel.dll
+D:\msysgit\VSProjects\WCF_Jiang\P96\CustomChannel\bin\Debug\CustomChannel.pdb
+D:\msysgit\VSProjects\WCF_Jiang\P96\CustomChannel\obj\Debug\CustomChannel.dll

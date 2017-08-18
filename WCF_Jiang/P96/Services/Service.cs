@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Contract;
 
-namespace CustomChannel
+namespace Services
 {
-    class Program
+    public class Service:IService
     {
-        static void Main(string[] args)
+        public void Dosomething()
         {
+            Console.WriteLine("Done...");
         }
     }
 }

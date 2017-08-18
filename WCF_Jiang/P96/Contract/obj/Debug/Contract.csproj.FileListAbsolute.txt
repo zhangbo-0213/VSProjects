@@ -1,0 +1,5 @@
+D:\msysgit\VSProjects\WCF_Jiang\P96\Contract\bin\Debug\Contract.dll
+D:\msysgit\VSProjects\WCF_Jiang\P96\Contract\bin\Debug\Contract.pdb
+D:\msysgit\VSProjects\WCF_Jiang\P96\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\msysgit\VSProjects\WCF_Jiang\P96\Contract\obj\Debug\Contract.dll
+D:\msysgit\VSProjects\WCF_Jiang\P96\Contract\obj\Debug\Contract.pdb

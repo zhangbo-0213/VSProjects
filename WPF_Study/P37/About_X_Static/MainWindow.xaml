@@ -1,0 +1,34 @@
+﻿<Window x:Class="About_X_Static.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:About_X_Static"
+        mc:Ignorable="d"
+         Title="{x:Static local:MainWindow.windowTitle}" Height="350" Width="525">
+    <Window.Resources>
+        <XmlDataProvider x:Key="InventoryData" >
+            <x:XData>
+                <Supermarket xmlns="">
+                    <Fruits>
+                        <Fruit>Peach</Fruit>
+                        <Fruit>Banana</Fruit>
+                        <Fruit>Orange</Fruit>
+                    </Fruits>
+                    <Drinks>
+                        <Drink >Tea</Drink>
+                        <Drink >Coca Cola</Drink>
+                        <Drink >PEPSI Cola</Drink>
+                    </Drinks>
+                </Supermarket>
+            </x:XData> 
+        </XmlDataProvider>
+    </Window.Resources>
+    <Grid>
+        <TextBlock FontSize="32" Text="{x:Static local:MainWindow.windowText}" Height="80" Margin="5" TextAlignment="Center" VerticalAlignment="Top"/>
+        <ListBox  ItemsSource="{Binding Source={StaticResource InventoryData},XPath=/Supermarket/Fruits/Fruit}" Width="240" Height="120" HorizontalAlignment="Left" Margin="5">
+            </ListBox>
+        <ListBox  ItemsSource="{Binding Source={StaticResource InventoryData},XPath=/Supermarket/Drinks/Drink}" Width="240" Height="120" HorizontalAlignment="Right" Margin="5">
+        </ListBox>
+    </Grid>
+</Window>
